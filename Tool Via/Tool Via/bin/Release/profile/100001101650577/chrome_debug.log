@@ -1,0 +1,27 @@
+[16908:12456:0423/163007.927:INFO:CONSOLE(0)] "[DOM] Found 2 elements with non-unique id #locale: (More info: https://goo.gl/9p2vKq) %o %o", source: https://www.facebook.com/ (0)
+[16908:12456:0423/163007.927:INFO:CONSOLE(0)] "[DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o", source: https://www.facebook.com/ (0)
+[16908:12456:0423/163007.927:INFO:CONSOLE(0)] "[DOM] Input elements should have autocomplete attributes (suggested: "username"): (More info: https://goo.gl/9p2vKq) %o", source: https://www.facebook.com/ (0)
+[16908:12456:0423/163009.660:INFO:CONSOLE(0)] "
+%cStop!", source:  (0)
+[16908:12456:0423/163009.660:INFO:CONSOLE(0)] "
+%cThis is a browser feature intended for developers. If someone told you to copy-paste something here to enable a Facebook feature or "hack" someone's account, it is a scam and will give them access to your Facebook account.", source:  (0)
+[16908:12456:0423/163009.660:INFO:CONSOLE(0)] "
+%cSee https://www.facebook.com/selfxss for more information.", source:  (0)
+[16908:12456:0423/163009.660:INFO:CONSOLE(0)] "
+%c", source:  (0)
+[16908:15604:0423/163012.149:WARNING:leveldb_database.cc(111)] Unable to open C:\Users\Administrator\source\repos\Tool Via\Tool Via\bin\Debug\profile\100001101650577\Default\shared_proto_db: Invalid argument: C:\Users\Administrator\source\repos\Tool Via\Tool Via\bin\Debug\profile\100001101650577\Default\shared_proto_db: does not exist (create_if_missing is false)
+[16908:12456:0423/163013.698:INFO:CONSOLE(0)] "[DOM] Found 2 elements with non-unique id #locale: (More info: https://goo.gl/9p2vKq) %o %o", source: https://www.facebook.com/ (0)
+[16908:12456:0423/163013.698:INFO:CONSOLE(0)] "[DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o", source: https://www.facebook.com/ (0)
+[16908:12456:0423/163013.698:INFO:CONSOLE(0)] "[DOM] Input elements should have autocomplete attributes (suggested: "username"): (More info: https://goo.gl/9p2vKq) %o", source: https://www.facebook.com/ (0)
+[16908:12456:0423/163013.955:INFO:CONSOLE(0)] "
+%cStop!", source:  (0)
+[16908:12456:0423/163013.955:INFO:CONSOLE(0)] "
+%cThis is a browser feature intended for developers. If someone told you to copy-paste something here to enable a Facebook feature or "hack" someone's account, it is a scam and will give them access to your Facebook account.", source:  (0)
+[16908:12456:0423/163013.955:INFO:CONSOLE(0)] "
+%cSee https://www.facebook.com/selfxss for more information.", source:  (0)
+[16908:12456:0423/163013.958:INFO:CONSOLE(0)] "
+%c", source:  (0)
+[16908:18156:0423/163106.444:WARNING:spdy_session.cc(3128)] Received WINDOW_UPDATE for invalid stream 23
+[16908:12456:0423/163110.203:WARNING:pref_notifier_impl.cc(23)] Pref observer found at shutdown.
+[16908:12456:0423/163110.203:WARNING:pref_notifier_impl.cc(23)] Pref observer found at shutdown.
+[16908:12456:0423/163110.203:WARNING:pref_notifier_impl.cc(23)] Pref observer found at shutdown.

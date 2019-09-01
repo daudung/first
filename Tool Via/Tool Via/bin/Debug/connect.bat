@@ -1,0 +1,2 @@
+rasdial /disconnect
+rasdial viettel

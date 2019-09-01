@@ -1,0 +1,5 @@
+[16908:10768:0621/182345.706:WARNING:leveldb_database.cc(106)] Unable to open C:\Users\Administrator\source\repos\Tool Via\Tool Via\bin\Debug\profile\3MZuQE4ZfBGXo1T\Default\shared_proto_db: Invalid argument: C:\Users\Administrator\source\repos\Tool Via\Tool Via\bin\Debug\profile\3MZuQE4ZfBGXo1T\Default\shared_proto_db: does not exist (create_if_missing is false)
+[16908:6372:0621/182352.124:ERROR:browser_process_sub_thread.cc(221)] Waited 14 ms for network service
+[16908:7292:0621/182352.125:WARNING:pref_notifier_impl.cc(36)] Pref observer for third_party_blocking_enabled found at shutdown.
+[16908:7292:0621/182352.126:WARNING:pref_notifier_impl.cc(36)] Pref observer for browser.relaunch_notification_period found at shutdown.
+[16908:7292:0621/182352.126:WARNING:pref_notifier_impl.cc(36)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

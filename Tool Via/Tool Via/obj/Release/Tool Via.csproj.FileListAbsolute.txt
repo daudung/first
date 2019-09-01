@@ -1,0 +1,24 @@
+C:\Users\Administrator\source\repos\Tool Via\Tool Via\bin\Release\Tool Via.exe.config
+C:\Users\Administrator\source\repos\Tool Via\Tool Via\bin\Release\Tool Via.exe
+C:\Users\Administrator\source\repos\Tool Via\Tool Via\bin\Release\Tool Via.pdb
+C:\Users\Administrator\source\repos\Tool Via\Tool Via\bin\Release\Bunifu_UI_v1.52.dll
+C:\Users\Administrator\source\repos\Tool Via\Tool Via\bin\Release\Excel.dll
+C:\Users\Administrator\source\repos\Tool Via\Tool Via\bin\Release\Newtonsoft.Json.dll
+C:\Users\Administrator\source\repos\Tool Via\Tool Via\bin\Release\NPOI.dll
+C:\Users\Administrator\source\repos\Tool Via\Tool Via\bin\Release\WebDriver.dll
+C:\Users\Administrator\source\repos\Tool Via\Tool Via\bin\Release\WebDriver.Support.dll
+C:\Users\Administrator\source\repos\Tool Via\Tool Via\bin\Release\xNet.dll
+C:\Users\Administrator\source\repos\Tool Via\Tool Via\bin\Release\ICSharpCode.SharpZipLib.dll
+C:\Users\Administrator\source\repos\Tool Via\Tool Via\bin\Release\Newtonsoft.Json.pdb
+C:\Users\Administrator\source\repos\Tool Via\Tool Via\bin\Release\Newtonsoft.Json.xml
+C:\Users\Administrator\source\repos\Tool Via\Tool Via\bin\Release\WebDriver.xml
+C:\Users\Administrator\source\repos\Tool Via\Tool Via\bin\Release\WebDriver.Support.xml
+C:\Users\Administrator\source\repos\Tool Via\Tool Via\obj\Release\proSignUp.fLogin.resources
+C:\Users\Administrator\source\repos\Tool Via\Tool Via\obj\Release\Maxcare.mainForm.resources
+C:\Users\Administrator\source\repos\Tool Via\Tool Via\obj\Release\Tool_Via.Properties.Resources.resources
+C:\Users\Administrator\source\repos\Tool Via\Tool Via\obj\Release\Tool Via.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\Tool Via\Tool Via\obj\Release\Tool Via.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Tool Via\Tool Via\obj\Release\Tool Via.csproj.CopyComplete
+C:\Users\Administrator\source\repos\Tool Via\Tool Via\obj\Release\Tool Via.exe
+C:\Users\Administrator\source\repos\Tool Via\Tool Via\obj\Release\Tool Via.pdb
+C:\Users\Administrator\source\repos\Tool Via\Tool Via\obj\Release\Tool Via.csprojAssemblyReference.cache

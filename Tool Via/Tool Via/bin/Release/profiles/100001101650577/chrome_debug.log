@@ -1,0 +1,43 @@
+[12916:16920:0423/161738.755:ERROR:cache_util_win.cc(19)] Unable to move the cache: 0
+[12916:16920:0423/161738.765:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\Administrator\source\repos\Tool Via\Tool Via\bin\Debug\profiles\100001101650577\ShaderCache\GPUCache to C:\Users\Administrator\source\repos\Tool Via\Tool Via\bin\Debug\profiles\100001101650577\ShaderCache\old_GPUCache_000
+[12916:16920:0423/161738.784:ERROR:disk_cache.cc(184)] Unable to create cache
+[12916:16920:0423/161738.791:ERROR:shader_disk_cache.cc(622)] Shader Cache Creation failed: -2
+[16388:17248:0423/161738.884:ERROR:browser_gpu_channel_host_factory.cc(139)] Failed to launch GPU process.
+[10468:17504:0423/161739.334:ERROR:cache_util_win.cc(19)] Unable to move the cache: 0
+[10468:17504:0423/161739.335:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\Administrator\source\repos\Tool Via\Tool Via\bin\Debug\profiles\100001101650577\ShaderCache\GPUCache to C:\Users\Administrator\source\repos\Tool Via\Tool Via\bin\Debug\profiles\100001101650577\ShaderCache\old_GPUCache_000
+[10468:17504:0423/161739.336:ERROR:disk_cache.cc(184)] Unable to create cache
+[10468:17504:0423/161739.336:ERROR:shader_disk_cache.cc(622)] Shader Cache Creation failed: -2
+[16592:17492:0423/161739.381:ERROR:cache_util_win.cc(19)] Unable to move the cache: 0
+[16592:17492:0423/161739.387:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\Administrator\source\repos\Tool Via\Tool Via\bin\Debug\profiles\100001101650577\ShaderCache\GPUCache to C:\Users\Administrator\source\repos\Tool Via\Tool Via\bin\Debug\profiles\100001101650577\ShaderCache\old_GPUCache_000
+[16592:17492:0423/161739.389:ERROR:disk_cache.cc(184)] Unable to create cache
+[16592:17492:0423/161739.391:ERROR:shader_disk_cache.cc(622)] Shader Cache Creation failed: -2
+[16660:17812:0423/161739.483:ERROR:cache_util_win.cc(19)] Unable to move the cache: 0
+[16660:17812:0423/161739.486:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\Administrator\source\repos\Tool Via\Tool Via\bin\Debug\profiles\100001101650577\ShaderCache\GPUCache to C:\Users\Administrator\source\repos\Tool Via\Tool Via\bin\Debug\profiles\100001101650577\ShaderCache\old_GPUCache_000
+[16660:17812:0423/161739.486:ERROR:disk_cache.cc(184)] Unable to create cache
+[16660:17812:0423/161739.486:ERROR:shader_disk_cache.cc(622)] Shader Cache Creation failed: -2
+[10468:14660:0423/161739.490:WARNING:pref_notifier_impl.cc(23)] Pref observer found at shutdown.
+[16636:17772:0423/161739.487:ERROR:cache_util_win.cc(19)] Unable to move the cache: 0
+[16636:17772:0423/161739.495:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\Administrator\source\repos\Tool Via\Tool Via\bin\Debug\profiles\100001101650577\ShaderCache\GPUCache to C:\Users\Administrator\source\repos\Tool Via\Tool Via\bin\Debug\profiles\100001101650577\ShaderCache\old_GPUCache_000
+[16636:17772:0423/161739.495:ERROR:disk_cache.cc(184)] Unable to create cache
+[16636:17772:0423/161739.495:ERROR:shader_disk_cache.cc(622)] Shader Cache Creation failed: -2
+[16592:16596:0423/161739.498:WARNING:pref_notifier_impl.cc(23)] Pref observer found at shutdown.
+[12916:12676:0423/161739.498:WARNING:pref_notifier_impl.cc(23)] Pref observer found at shutdown.
+[16388:16392:0423/161739.528:WARNING:pref_notifier_impl.cc(23)] Pref observer found at shutdown.
+[16748:18020:0423/161739.597:ERROR:cache_util_win.cc(19)] Unable to move the cache: 0
+[16748:18020:0423/161739.600:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\Administrator\source\repos\Tool Via\Tool Via\bin\Debug\profiles\100001101650577\ShaderCache\GPUCache to C:\Users\Administrator\source\repos\Tool Via\Tool Via\bin\Debug\profiles\100001101650577\ShaderCache\old_GPUCache_000
+[16748:18020:0423/161739.600:ERROR:disk_cache.cc(184)] Unable to create cache
+[16748:18020:0423/161739.600:ERROR:shader_disk_cache.cc(622)] Shader Cache Creation failed: -2
+[16636:16640:0423/161739.606:WARNING:pref_notifier_impl.cc(23)] Pref observer found at shutdown.
+[16660:16664:0423/161739.606:WARNING:pref_notifier_impl.cc(23)] Pref observer found at shutdown.
+[16748:16752:0423/161739.614:WARNING:pref_notifier_impl.cc(23)] Pref observer found at shutdown.
+[3712:8856:0423/161755.332:INFO:CONSOLE(8)] "SW registered", source: https://www.google.com/_/chrome/newtab?ie=UTF-8 (8)
+[3712:8856:0423/161755.334:INFO:CONSOLE(8)] "SW registered", source: https://www.google.com/_/chrome/newtab?ie=UTF-8 (8)
+[3712:8856:0423/161755.334:INFO:CONSOLE(8)] "SW registered", source: https://www.google.com/_/chrome/newtab?ie=UTF-8 (8)
+[3712:8856:0423/161755.335:INFO:CONSOLE(8)] "SW registered", source: https://www.google.com/_/chrome/newtab?rlz=1C1SQJL_viVN844VN844&ie=UTF-8 (8)
+[3712:8856:0423/161755.335:INFO:CONSOLE(8)] "SW registered", source: https://www.google.com/_/chrome/newtab?ie=UTF-8 (8)
+[3712:8856:0423/161755.336:INFO:CONSOLE(8)] "SW registered", source: https://www.google.com/_/chrome/newtab?ie=UTF-8 (8)
+[3712:8856:0423/161755.336:INFO:CONSOLE(8)] "SW registered", source: https://www.google.com/_/chrome/newtab?ie=UTF-8 (8)
+[3712:8856:0423/161755.336:INFO:CONSOLE(8)] "SW registered", source: https://www.google.com/_/chrome/newtab?ie=UTF-8 (8)
+[3712:8856:0423/161926.549:WARNING:pref_notifier_impl.cc(23)] Pref observer found at shutdown.
+[3712:8856:0423/161926.549:WARNING:pref_notifier_impl.cc(23)] Pref observer found at shutdown.
+[3712:8856:0423/161926.549:WARNING:pref_notifier_impl.cc(23)] Pref observer found at shutdown.

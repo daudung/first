@@ -1,0 +1,74 @@
+{
+   "2dQZAIXCPYNIoCREhzZEqDcldaiTMEFISOOe2d39jjA=": {
+      "expect_ct": {
+         "expect_ct_enforce": false,
+         "expect_ct_expiry": 1556098209.874451,
+         "expect_ct_observed": 1556011809.874451,
+         "expect_ct_report_uri": "https://reports.fb.com/expectct/"
+      },
+      "expiry": 1571563809.874442,
+      "mode": "force-https",
+      "sts_include_subdomains": false,
+      "sts_observed": 1556011809.874445
+   },
+   "5EdUoB7YUY9zZV+2DkgVXgho8WUvp+D+6KpeUOhNQIM=": {
+      "expiry": 1587547815.406151,
+      "mode": "force-https",
+      "sts_include_subdomains": false,
+      "sts_observed": 1556011815.406156
+   },
+   "7QzmF0xxCtHTEKYxqWspZY5pl1F0B90+PraFnPulnH8=": {
+      "expect_ct": {
+         "expect_ct_enforce": false,
+         "expect_ct_expiry": 1556098213.838447,
+         "expect_ct_observed": 1556011813.838447,
+         "expect_ct_report_uri": "https://reports.fb.com/expectct/"
+      },
+      "expiry": 1571563813.838437,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1556011813.83844
+   },
+   "8/RrMmQlCD2Gsp14wUCE1P8r7B2C5+yE0+g79IPyRsc=": {
+      "expiry": 1587547804.142257,
+      "mode": "force-https",
+      "sts_include_subdomains": false,
+      "sts_observed": 1556011804.14226
+   },
+   "DhtPnQj0DWhjmu+NAh81mOr8BWq3w+HxcIPpGNZ4O5g=": {
+      "expect_ct": {
+         "expect_ct_enforce": false,
+         "expect_ct_expiry": 1556098214.370039,
+         "expect_ct_observed": 1556011814.370039,
+         "expect_ct_report_uri": "https://reports.fb.com/expectct/"
+      },
+      "expiry": 1587547814.370032,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1556011814.370034
+   },
+   "TZmujbl93Yt3JI8wZ4X/zjkA0WFNGNW44A+o7h4YyHw=": {
+      "expect_ct": {
+         "expect_ct_enforce": false,
+         "expect_ct_expiry": 1556098266.513653,
+         "expect_ct_observed": 1556011866.513653,
+         "expect_ct_report_uri": "https://reports.fb.com/expectct/"
+      },
+      "expiry": 1571563866.513627,
+      "mode": "force-https",
+      "sts_include_subdomains": false,
+      "sts_observed": 1556011866.513635
+   },
+   "pghPxF7JCJ2Gzq7EZ78EhQldaD5iM1flRYkGsv/lAjs=": {
+      "expect_ct": {
+         "expect_ct_enforce": false,
+         "expect_ct_expiry": 1556098254.567511,
+         "expect_ct_observed": 1556011854.567511,
+         "expect_ct_report_uri": "https://reports.fb.com/expectct/"
+      },
+      "expiry": 1571563854.567486,
+      "mode": "force-https",
+      "sts_include_subdomains": false,
+      "sts_observed": 1556011854.567493
+   }
+}
